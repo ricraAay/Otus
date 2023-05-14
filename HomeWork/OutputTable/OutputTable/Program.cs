@@ -15,7 +15,7 @@ namespace Otus.HomeWork.OutputTable
             int padding = tableDimension - 1;
             // Ширина таблицы
             int width = padding * 2 + text.Length;
-
+            // Максимальная ширина
             int maxWidth = 40;
 
             if (width > maxWidth)
