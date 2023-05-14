@@ -15,8 +15,17 @@ namespace Otus.HomeWork.OutputTable
             int padding = tableDimension - 1;
             // Ширина таблицы
             int width = padding * 2 + text.Length;
-            // Максимальный индекс для первой строки
-            int maxIndexFirstColumn = padding * 2;
+
+            int maxWidth = 40;
+
+            if (width > maxWidth)
+            {
+                text = text.Substring(0, width - (width - maxWidth));
+                width = padding * 2 + text.Length;
+            }
+
+            // Максимальный индекс для первой строки (+ 2 границы)
+            int maxIndexFirstColumn = padding * 2 + 2;
             // Максимальный индекс для второй строки
             int maxIndexSecondColumn = maxIndexFirstColumn * 2;
             // Максимальный индекс для третьей строки

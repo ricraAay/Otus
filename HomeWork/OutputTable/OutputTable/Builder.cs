@@ -15,14 +15,11 @@
         static public void Execute(int padding, int idx, string text)
         {
             // Получение пустой рамки
-            string border = StringHelper.GetBorder(Constants.Space, padding == 0 ? 1 : padding);
+            string border = StringHelper.GetBorder(Constants.Space, padding);
             // Формирование текста с отступами 
             string stringWithText = border + text + border;
 
-            if (idx == padding)
-            {
-                StringHelper.ToWrite(stringWithText);
-            } else if (padding == 0)
+            if (idx == padding + 1 || padding == 0)
             {
                 StringHelper.ToWrite(stringWithText);
             }
