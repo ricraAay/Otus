@@ -1,0 +1,15 @@
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\bin\Debug\net7.0\OutputTable.exe
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\bin\Debug\net7.0\OutputTable.deps.json
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\bin\Debug\net7.0\OutputTable.runtimeconfig.json
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\bin\Debug\net7.0\OutputTable.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\bin\Debug\net7.0\OutputTable.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\obj\Debug\net7.0\OutputTable.csproj.AssemblyReference.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\obj\Debug\net7.0\OutputTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\obj\Debug\net7.0\OutputTable.AssemblyInfoInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\obj\Debug\net7.0\OutputTable.AssemblyInfo.cs
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\obj\Debug\net7.0\OutputTable.csproj.CoreCompileInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\obj\Debug\net7.0\OutputTable.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\obj\Debug\net7.0\refint\OutputTable.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\obj\Debug\net7.0\OutputTable.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\obj\Debug\net7.0\OutputTable.genruntimeconfig.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\OutputTable\OutputTable\obj\Debug\net7.0\ref\OutputTable.dll
