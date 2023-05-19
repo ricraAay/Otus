@@ -6,23 +6,7 @@ namespace Otus.HomeWork.OutputTable
     {
         static void Main(string[] args)
         {
-            // Получение введенной размерности таблицы
-            CommandHelper.GetTableDimension(out int tableDimension);
-            // Получение введенного слова
-            CommandHelper.GetText(out string text);
-
-            // Отсупы с каждой стороны, (размерность таблицы - 1)
-            int padding = tableDimension - 1;
-            // Ширина таблицы
-            int width = padding * 2 + text.Length;
-            // Максимальная ширина
-            int maxWidth = 40;
-
-            if (width > maxWidth)
-            {
-                text = text.Substring(0, width - (width - maxWidth));
-                width = padding * 2 + text.Length;
-            }
+            CommandHelper.Execute(out int tableDimension, out string text, out int padding, out int width );
 
             // Максимальный индекс для первой строки (+ 2 границы)
             int maxIndexFirstColumn = padding * 2 + 2;
