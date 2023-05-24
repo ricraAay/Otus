@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Collection
+namespace Otus.HomeWork.Collection
 {
     static internal class MultipleSearch
     {

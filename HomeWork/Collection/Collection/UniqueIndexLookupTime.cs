@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Numerics;
 using System.Text;
 
-namespace Collection
+namespace Otus.HomeWork.Collection
 {
     static internal class UniqueIndexLookupTime
     {

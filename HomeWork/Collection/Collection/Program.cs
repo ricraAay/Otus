@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace Collection
+namespace Otus.HomeWork.Collection
 {
     internal class Program
     {
