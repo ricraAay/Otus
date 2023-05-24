@@ -1,0 +1,15 @@
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\bin\Debug\net7.0\Collection.exe
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\bin\Debug\net7.0\Collection.deps.json
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\bin\Debug\net7.0\Collection.runtimeconfig.json
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\bin\Debug\net7.0\Collection.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\bin\Debug\net7.0\Collection.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\obj\Debug\net7.0\Collection.csproj.AssemblyReference.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\obj\Debug\net7.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\obj\Debug\net7.0\Collection.AssemblyInfoInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\obj\Debug\net7.0\Collection.AssemblyInfo.cs
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\obj\Debug\net7.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\obj\Debug\net7.0\Collection.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\obj\Debug\net7.0\refint\Collection.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\obj\Debug\net7.0\Collection.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\obj\Debug\net7.0\Collection.genruntimeconfig.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\Collection\Collection\obj\Debug\net7.0\ref\Collection.dll
