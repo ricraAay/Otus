@@ -1,0 +1,15 @@
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\bin\Debug\net7.0\Planet.num.two.exe
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\bin\Debug\net7.0\Planet.num.two.deps.json
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\bin\Debug\net7.0\Planet.num.two.runtimeconfig.json
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\bin\Debug\net7.0\Planet.num.two.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\bin\Debug\net7.0\Planet.num.two.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\obj\Debug\net7.0\Planet.num.two.csproj.AssemblyReference.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\obj\Debug\net7.0\Planet.num.two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\obj\Debug\net7.0\Planet.num.two.AssemblyInfoInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\obj\Debug\net7.0\Planet.num.two.AssemblyInfo.cs
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\obj\Debug\net7.0\Planet.num.two.csproj.CoreCompileInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\obj\Debug\net7.0\Planet.num.two.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\obj\Debug\net7.0\refint\Planet.num.two.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\obj\Debug\net7.0\Planet.num.two.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\obj\Debug\net7.0\Planet.num.two.genruntimeconfig.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\Planet\Planet.num.two\obj\Debug\net7.0\ref\Planet.num.two.dll
