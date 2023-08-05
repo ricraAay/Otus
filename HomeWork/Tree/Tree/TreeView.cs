@@ -43,19 +43,21 @@
 
         private void AskCode(string code)
         {
-            if (code == "0")
+            switch (code)
             {
-                this._action.Clear();
-                this.Execute();
-            }
-
-            if (code == "1")
-            {
-                Console.WriteLine("\n# Поиск сотрудника по зп");
-                this.Find();
-            }
-
-            this.AskCode(code);
+                case "0":
+                    this._action.Clear();
+                    this.Execute();
+                    break;
+                case "1":
+                    Console.WriteLine("\n# Поиск сотрудника по зп");
+                    this.Find();
+                    break;
+                default:
+                    Console.WriteLine("\n# Введите 0 - для перехода к началу программы или 1 - для поиска ЗП");
+                    this.AskCode(Console.ReadLine());
+                    break;
+            }           
         }
 
         public void Execute()
