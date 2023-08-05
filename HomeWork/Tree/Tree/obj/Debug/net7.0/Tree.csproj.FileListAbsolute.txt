@@ -1,0 +1,17 @@
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\bin\Debug\net7.0\Tree.exe
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\bin\Debug\net7.0\Tree.deps.json
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\bin\Debug\net7.0\Tree.runtimeconfig.json
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\bin\Debug\net7.0\Tree.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\bin\Debug\net7.0\Tree.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\obj\Debug\net7.0\Tree.csproj.AssemblyReference.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\obj\Debug\net7.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\obj\Debug\net7.0\Tree.AssemblyInfoInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\obj\Debug\net7.0\Tree.AssemblyInfo.cs
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\obj\Debug\net7.0\Tree.csproj.CoreCompileInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\obj\Debug\net7.0\Tree.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\obj\Debug\net7.0\refint\Tree.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\obj\Debug\net7.0\Tree.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\obj\Debug\net7.0\Tree.genruntimeconfig.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\obj\Debug\net7.0\ref\Tree.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\Tree\Tree\obj\Debug\net7.0\Tree.csproj.CopyComplete
