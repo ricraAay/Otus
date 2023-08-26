@@ -1,0 +1,14 @@
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\bin\Debug\net7.0\ImageDownloader.exe
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\bin\Debug\net7.0\ImageDownloader.deps.json
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\bin\Debug\net7.0\ImageDownloader.runtimeconfig.json
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\bin\Debug\net7.0\ImageDownloader.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\bin\Debug\net7.0\ImageDownloader.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\obj\Debug\net7.0\ImageDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\obj\Debug\net7.0\ImageDownloader.AssemblyInfoInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\obj\Debug\net7.0\ImageDownloader.AssemblyInfo.cs
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\obj\Debug\net7.0\ImageDownloader.csproj.CoreCompileInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\obj\Debug\net7.0\ImageDownloader.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\obj\Debug\net7.0\refint\ImageDownloader.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\obj\Debug\net7.0\ImageDownloader.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\obj\Debug\net7.0\ImageDownloader.genruntimeconfig.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\ImageDownloader\ImageDownloader\obj\Debug\net7.0\ref\ImageDownloader.dll
