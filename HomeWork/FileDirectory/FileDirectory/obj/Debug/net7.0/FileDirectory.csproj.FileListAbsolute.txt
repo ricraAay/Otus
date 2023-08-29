@@ -1,0 +1,14 @@
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\bin\Debug\net7.0\FileDirectory.exe
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\bin\Debug\net7.0\FileDirectory.deps.json
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\bin\Debug\net7.0\FileDirectory.runtimeconfig.json
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\bin\Debug\net7.0\FileDirectory.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\bin\Debug\net7.0\FileDirectory.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\obj\Debug\net7.0\FileDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\obj\Debug\net7.0\FileDirectory.AssemblyInfoInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\obj\Debug\net7.0\FileDirectory.AssemblyInfo.cs
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\obj\Debug\net7.0\FileDirectory.csproj.CoreCompileInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\obj\Debug\net7.0\FileDirectory.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\obj\Debug\net7.0\refint\FileDirectory.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\obj\Debug\net7.0\FileDirectory.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\obj\Debug\net7.0\FileDirectory.genruntimeconfig.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\FileDirectory\FileDirectory\obj\Debug\net7.0\ref\FileDirectory.dll
