@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.IO;
+using System.Text;
 
 namespace Otus.HomeWork.FileDirectory
 {
@@ -59,6 +60,20 @@ namespace Otus.HomeWork.FileDirectory
         public string ReadAllText(string path)
         {
             return File.ReadAllText(Path.Combine(path));
+        }
+
+        public string AppendText(string path, string[] text)
+        {
+            using (StreamWriter sw = File.AppendText(path))
+            {
+
+                foreach (string line in text)
+                {
+                    sw.WriteLine(line);
+                }
+            }
+
+            return ReadAllText(path);
         }
     }
 }

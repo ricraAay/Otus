@@ -43,8 +43,8 @@ namespace Otus.HomeWork.FileDirectory
                 var textFromTestFirst = fileDirectory.ReadAllText(Path.Combine(path, "Test1", name));
                 var textFromTestSecond = fileDirectory.ReadAllText(Path.Combine(path, "Test2", name));
 
-                fileDirectory.CreateFile(Path.Combine(path, "Test1", name), new[] { textFromTestFirst, dt });
-                fileDirectory.CreateFile(Path.Combine(path, "Test2", name), new[] { textFromTestSecond, dt });
+                fileDirectory.AppendText(Path.Combine(path, "Test1", name), new[] { textFromTestFirst, dt });
+                fileDirectory.AppendText(Path.Combine(path, "Test2", name), new[] { textFromTestSecond, dt });
             }
 
             Console.WriteLine("\nЧтенеие файла:\n");
