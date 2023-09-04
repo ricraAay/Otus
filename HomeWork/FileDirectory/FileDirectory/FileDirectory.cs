@@ -66,7 +66,6 @@ namespace Otus.HomeWork.FileDirectory
         {
             using (StreamWriter sw = File.AppendText(path))
             {
-
                 foreach (string line in text)
                 {
                     sw.WriteLine(line);
