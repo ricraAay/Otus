@@ -1,0 +1,14 @@
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\bin\Debug\net7.0\OtusDictionary.exe
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\bin\Debug\net7.0\OtusDictionary.deps.json
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\bin\Debug\net7.0\OtusDictionary.runtimeconfig.json
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\bin\Debug\net7.0\OtusDictionary.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\bin\Debug\net7.0\OtusDictionary.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\obj\Debug\net7.0\OtusDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\obj\Debug\net7.0\OtusDictionary.AssemblyInfoInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\obj\Debug\net7.0\OtusDictionary.AssemblyInfo.cs
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\obj\Debug\net7.0\OtusDictionary.csproj.CoreCompileInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\obj\Debug\net7.0\OtusDictionary.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\obj\Debug\net7.0\refint\OtusDictionary.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\obj\Debug\net7.0\OtusDictionary.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\obj\Debug\net7.0\OtusDictionary.genruntimeconfig.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\OtusDictionary\OtusDictionary\obj\Debug\net7.0\ref\OtusDictionary.dll
