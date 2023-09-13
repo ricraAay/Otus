@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace OtusDictionary
+﻿namespace Otus.HomeWork.OtusDictionary
 {
     internal class Program
     {

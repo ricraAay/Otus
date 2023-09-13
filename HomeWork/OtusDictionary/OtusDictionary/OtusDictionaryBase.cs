@@ -1,4 +1,4 @@
-﻿namespace OtusDictionary
+﻿namespace Otus.HomeWork.OtusDictionary
 {
     public abstract class OtusDictionaryBase
     {
