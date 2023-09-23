@@ -1,0 +1,14 @@
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\bin\Debug\net7.0\LinqOperation.exe
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\bin\Debug\net7.0\LinqOperation.deps.json
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\bin\Debug\net7.0\LinqOperation.runtimeconfig.json
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\bin\Debug\net7.0\LinqOperation.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\bin\Debug\net7.0\LinqOperation.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\obj\Debug\net7.0\LinqOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\obj\Debug\net7.0\LinqOperation.AssemblyInfoInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\obj\Debug\net7.0\LinqOperation.AssemblyInfo.cs
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\obj\Debug\net7.0\LinqOperation.csproj.CoreCompileInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\obj\Debug\net7.0\LinqOperation.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\obj\Debug\net7.0\refint\LinqOperation.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\obj\Debug\net7.0\LinqOperation.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\obj\Debug\net7.0\LinqOperation.genruntimeconfig.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\LinqOperation\LinqOperation\obj\Debug\net7.0\ref\LinqOperation.dll
