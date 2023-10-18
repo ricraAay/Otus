@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "44hNTp1nnpsCDh+4KuFTKbQDd1OgtLqlL+27JcJz2geJ7rJc/i6outqLWr4ZEVe03lzeHKcojwhBLWJzuiqCeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riicr\\source\\repos\\Otus\\HomeWork\\DapperProject\\DapperProject\\DapperProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riicr\\.nuget\\packages\\dapper\\2.1.11\\dapper.2.1.11.nupkg.sha512",
+    "C:\\Users\\riicr\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\riicr\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
