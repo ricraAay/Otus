@@ -1,0 +1,14 @@
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\bin\Debug\net7.0\RegularCustomer.exe
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\bin\Debug\net7.0\RegularCustomer.deps.json
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\bin\Debug\net7.0\RegularCustomer.runtimeconfig.json
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\bin\Debug\net7.0\RegularCustomer.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\bin\Debug\net7.0\RegularCustomer.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\obj\Debug\net7.0\RegularCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\obj\Debug\net7.0\RegularCustomer.AssemblyInfoInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\obj\Debug\net7.0\RegularCustomer.AssemblyInfo.cs
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\obj\Debug\net7.0\RegularCustomer.csproj.CoreCompileInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\obj\Debug\net7.0\RegularCustomer.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\obj\Debug\net7.0\refint\RegularCustomer.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\obj\Debug\net7.0\RegularCustomer.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\obj\Debug\net7.0\RegularCustomer.genruntimeconfig.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\RegularCustomer\obj\Debug\net7.0\ref\RegularCustomer.dll

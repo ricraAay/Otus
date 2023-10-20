@@ -1,0 +1,14 @@
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\bin\Debug\net7.0\Home.exe
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\bin\Debug\net7.0\Home.deps.json
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\bin\Debug\net7.0\Home.runtimeconfig.json
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\bin\Debug\net7.0\Home.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\bin\Debug\net7.0\Home.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\obj\Debug\net7.0\Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\obj\Debug\net7.0\Home.AssemblyInfoInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\obj\Debug\net7.0\Home.AssemblyInfo.cs
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\obj\Debug\net7.0\Home.csproj.CoreCompileInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\obj\Debug\net7.0\Home.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\obj\Debug\net7.0\refint\Home.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\obj\Debug\net7.0\Home.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\obj\Debug\net7.0\Home.genruntimeconfig.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Home\obj\Debug\net7.0\ref\Home.dll

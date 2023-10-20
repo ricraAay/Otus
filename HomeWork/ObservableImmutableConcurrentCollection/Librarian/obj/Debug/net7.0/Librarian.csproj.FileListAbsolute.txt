@@ -1,0 +1,14 @@
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\bin\Debug\net7.0\Librarian.exe
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\bin\Debug\net7.0\Librarian.deps.json
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\bin\Debug\net7.0\Librarian.runtimeconfig.json
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\bin\Debug\net7.0\Librarian.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\bin\Debug\net7.0\Librarian.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\obj\Debug\net7.0\Librarian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\obj\Debug\net7.0\Librarian.AssemblyInfoInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\obj\Debug\net7.0\Librarian.AssemblyInfo.cs
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\obj\Debug\net7.0\Librarian.csproj.CoreCompileInputs.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\obj\Debug\net7.0\Librarian.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\obj\Debug\net7.0\refint\Librarian.dll
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\obj\Debug\net7.0\Librarian.pdb
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\obj\Debug\net7.0\Librarian.genruntimeconfig.cache
+C:\Users\riicr\source\repos\Otus\HomeWork\ObservableImmutableConcurrentCollection\Librarian\obj\Debug\net7.0\ref\Librarian.dll
