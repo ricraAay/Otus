@@ -10,6 +10,7 @@
             {
                 { ConsoleKey.A, new CommandAdding(shop) },
                 { ConsoleKey.D, new CommandRemoval(shop) },
+                { ConsoleKey.X, new CommandExit() }
             };
 
             var regularCustomer = new RegularCustomer(commands);

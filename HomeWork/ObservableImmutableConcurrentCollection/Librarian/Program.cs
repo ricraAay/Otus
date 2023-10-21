@@ -11,7 +11,8 @@ namespace Otus.HomeWork.Librarian
             var command = new Dictionary<ConsoleKey, ICommandOperation>
             {
                 { ConsoleKey.D1, new CommandAdding(librrary) },
-                { ConsoleKey.D2, new CommandView(librrary) }
+                { ConsoleKey.D2, new CommandView(librrary) },
+                { ConsoleKey.D3, new CommandExit() }
             };
             
             var librarian = new Librarian(librrary, command);

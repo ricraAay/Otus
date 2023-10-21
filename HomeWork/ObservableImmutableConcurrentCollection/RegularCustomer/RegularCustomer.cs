@@ -18,11 +18,6 @@
                 _commands[key].Execute();
             }
 
-            if (key == ConsoleKey.X)
-            {
-                Environment.Exit(0);
-            }
-
             Execute();
         }
     }

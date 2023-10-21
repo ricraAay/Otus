@@ -23,11 +23,6 @@
                 _command[key].Execute();
             }
 
-            if (key == ConsoleKey.D3)
-            {
-                Environment.Exit(0);
-            }
-
             Execute(menu);
         }
     }
